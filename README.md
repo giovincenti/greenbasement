@@ -1,6 +1,6 @@
 # Green Basement
 
-We will release the current source code in a few days. In the meantime, please check the publications that are associated with this project.
+The following publications are associated with this project:
 
 Giovanni Vincenti and Wolf T. Pecher. 2020. Merging Sustainability and Technology in the Classroom: An Experience Report. In Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE ’20). Association for Computing Machinery, New York, NY, USA, 448–453. DOI:https://doi.org/10.1145/3328778.3366899
 
